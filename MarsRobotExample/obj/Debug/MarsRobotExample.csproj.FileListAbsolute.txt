@@ -1,0 +1,6 @@
+C:\Users\Huseyin\source\repos\Code Review\MarsRobotExample\bin\Debug\MarsRobotExample.exe.config
+C:\Users\Huseyin\source\repos\Code Review\MarsRobotExample\bin\Debug\MarsRobotExample.exe
+C:\Users\Huseyin\source\repos\Code Review\MarsRobotExample\bin\Debug\MarsRobotExample.pdb
+C:\Users\Huseyin\source\repos\Code Review\MarsRobotExample\obj\Debug\MarsRobotExample.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\source\repos\Code Review\MarsRobotExample\obj\Debug\MarsRobotExample.exe
+C:\Users\Huseyin\source\repos\Code Review\MarsRobotExample\obj\Debug\MarsRobotExample.pdb
